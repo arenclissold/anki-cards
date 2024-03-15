@@ -1,0 +1,31 @@
+.card {
+  font-family: English;
+  font-size: 24px;
+}
+
+.center {
+  text-align: center;
+}
+
+.eng {
+  font-family: 'Arial';
+  font-size: 20px;
+}
+
+.sound {
+  text-align: center;
+}
+
+.big {
+  font-size: 30px;
+}
+
+.small {
+  font-family: 'Arial';
+  font-size: 12px;
+  margin-top: 500px;
+}
+
+b {
+  font-weight: 400;
+}

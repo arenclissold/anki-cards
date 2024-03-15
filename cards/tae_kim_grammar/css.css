@@ -1,0 +1,29 @@
+.card {
+  font-size: 30px;
+  text-align: center;
+  color: black;
+}
+
+b {
+  font-weight: normal;
+  color: #f5ad58;
+}
+i {
+  font-style: normal;
+  color: #ad58f5;
+}
+.medium {
+  font-size: 24px;
+}
+.big {
+  font-size: 36px;
+}
+.jp {
+  font-family: 'Noto Sans Japanese', Meiryo, 'MS PMincho';
+}
+
+.diagram {
+  margin-top: 10px;
+  background-color: white;
+  border-radius: 5px;
+}

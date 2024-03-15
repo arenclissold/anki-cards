@@ -1,0 +1,11 @@
+<span class="jp big">{{Expression}}</span>
+
+<script>
+  const spans = document.querySelectorAll('span')
+
+  spans.forEach((span) => {
+    if (span.style.fontWeight) {
+      span.style.removeProperty('font-weight')
+    }
+  })
+</script>
